@@ -119,7 +119,7 @@ project-directory/
 
 🌐 GitHub Repository
 
-The full source code for this project is available here: https://github.com/Shravan0715
+The full source code for this project is available here: GitHub Repository
 
 📞 Contact
 
@@ -127,6 +127,6 @@ Feel free to reach out for collaboration or queries:
 
 Email: shravangalagali573@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/shravan-s-galagali-15559a226/
+LinkedIn: Shravan S. Galagali
 
 Thank you for exploring the project! 😊
